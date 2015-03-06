@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/cv_mac\/Desktop\/test\/hello-ring\/public\/dev\/cljs\/client.js","sources":["client.cljs"],"lineCount":8,"mappings":";AAAA;;;;AAIA,wCAAA,xCAACA,2HAA0BC,2BAAe,wBAAA,xBAAiBC","names":["reagent.core\/render-component","cljs.core\/app-view","js\/document"]}
